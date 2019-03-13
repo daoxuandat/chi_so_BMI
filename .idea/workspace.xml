@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b073c2f6-75d6-465a-935b-cad5b7765457" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TH_hien_thi_dau_Ra/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TH_hien_thi_dau_Ra/console.log.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TH_hien_thi_dau_Ra/document.write.html" afterDir="false" />
@@ -14,6 +12,10 @@
       <change afterPath="$PROJECT_DIR$/../TH_kieu_du_lieu_toan_tu/chuyen_doi_nhiet_do.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TH_kieu_du_lieu_toan_tu/diem_trung_binh.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../TH_kieu_du_lieu_toan_tu/dien_tich_hinh_tron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_Tap_tu_dien/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bai_Tap_tu_dien/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caro_nang_Cao/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../caro_nang_Cao/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../chuyen_doi_tien_te/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../chuyen_doi_tien_te/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../do_you_love_me/.idea/vcs.xml" afterDir="false" />
@@ -41,6 +43,7 @@
       <change afterPath="$PROJECT_DIR$/../songuyento/songuyento.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../su_dung_cac_ham_co_san/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../su_dung_cac_ham_co_san/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../su_dung_cac_ham_co_san/index2.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../switch_case/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../switch_case/index.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../vonglapdo_while/.idea/vcs.xml" afterDir="false" />
@@ -49,7 +52,6 @@
       <change afterPath="$PROJECT_DIR$/../vonglapdo_while/javascript loops.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../vonglapdo_while/vong_lap_for.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../vonglapdo_while/vong_lap_long_nhau.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TH_nhung_javaScript/TH_nhung_javaScript_1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_nhung_javaScript/TH_nhung_javaScript_1.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TH_nhung_javaScript/TH_nhung_javaScript_2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../TH_nhung_javaScript/TH_nhung_javaScript_2.html" afterDir="false" />
@@ -107,7 +109,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -119,12 +120,13 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../luyen_tap_toan_tu" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -153,11 +155,12 @@
       <workItem from="1552150393393" duration="46000" />
       <workItem from="1552294590981" duration="144000" />
       <workItem from="1552295301962" duration="108000" />
+      <workItem from="1552334803921" duration="260000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="298000" />
+    <option name="totallyTimeSpent" value="558000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
